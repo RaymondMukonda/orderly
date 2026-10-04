@@ -4,7 +4,6 @@ Orderly Live Site: https://orderly-odtacvnmx-raymondmukonda.vercel.app/
 
 Team:
 Raymond Mukonda
-Jerson Jose Manuel Porras Rosales
 Simond Mukonda
 
 Week 03 Meeting:
